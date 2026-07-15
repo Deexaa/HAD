@@ -19,7 +19,7 @@ This repository contains the code and supplementary material for our CVPR 2026 p
 
 ## Datasets
 
-Currently, we provide the implementation for NYUv2 dataset. For the rest of the dataset, we are organizing and will update the code asap.
+Currently, we provide the implementation for the _NYUv2_ dataset. The code for the remaining datasets is being organized and will be released as soon as possible.
 
 Please arrange the dataset as follows:
 
